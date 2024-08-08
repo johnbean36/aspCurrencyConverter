@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\jmbas\\source\\CurrencyConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E10642E5-BE62-4AF3-83A5-3613BE2495A6}|CurrencyConverter\\CurrencyConverter.csproj|e:\\users\\jmbas\\source\\currencyconverter\\currencyconverter\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E10642E5-BE62-4AF3-83A5-3613BE2495A6}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "E:\\Users\\jmbas\\source\\CurrencyConverter\\CurrencyConverter\\Default.aspx",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Default.aspx",
+              "ToolTip": "E:\\Users\\jmbas\\source\\CurrencyConverter\\CurrencyConverter\\Default.aspx",
+              "RelativeToolTip": "CurrencyConverter\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-08T04:25:47.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
