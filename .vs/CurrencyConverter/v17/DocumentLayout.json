@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E10642E5-BE62-4AF3-83A5-3613BE2495A6}|CurrencyConverter\\CurrencyConverter.csproj|e:\\users\\jmbas\\source\\currencyconverter\\currencyconverter\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{E10642E5-BE62-4AF3-83A5-3613BE2495A6}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10642E5-BE62-4AF3-83A5-3613BE2495A6}|CurrencyConverter\\CurrencyConverter.csproj|e:\\users\\jmbas\\source\\currencyconverter\\currencyconverter\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10642E5-BE62-4AF3-83A5-3613BE2495A6}|CurrencyConverter\\CurrencyConverter.csproj|solutionrelative:currencyconverter\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\jmbas\\source\\CurrencyConverter\\CurrencyConverter\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter\\Default.aspx.cs",
+              "ToolTip": "E:\\Users\\jmbas\\source\\CurrencyConverter\\CurrencyConverter\\Default.aspx.cs",
+              "RelativeToolTip": "CurrencyConverter\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:51:46.797Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "CurrencyConverter\\Default.aspx",
               "ToolTip": "E:\\Users\\jmbas\\source\\CurrencyConverter\\CurrencyConverter\\Default.aspx",
               "RelativeToolTip": "CurrencyConverter\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-08-08T04:25:47.261Z",
               "EditorCaption": ""

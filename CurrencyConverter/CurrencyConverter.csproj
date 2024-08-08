@@ -69,6 +69,10 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="images\blank.jpg" />
+    <Content Include="images\USDtoCan.png" />
+    <Content Include="images\USDtoYen.png" />
+    <Content Include="images\UstoEuro.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
